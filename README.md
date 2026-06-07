@@ -18,10 +18,6 @@ A responsive weather application built using HTML, CSS, and JavaScript that fetc
 - JavaScript
 - OpenWeatherMap API
 
-## Screenshots
-
-(Add screenshots here)
-
 ## Author
 
 Shafrin M
